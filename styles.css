@@ -1,0 +1,58 @@
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.photoButtom {
+    background-color: lightgrey;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+}
+
+.locationButtom {
+    background-color: lightgrey;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px
+}
+
+
+header {
+    background-color: white;
+    text-align: center;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    box-sizing: border-box;
+}
+  
+p {
+    padding-bottom: 20px !important;
+}
+
+header h1 {
+ margin: 0;
+ padding: 10px;
+}
+
+.post {
+    margin-top: 40px;
+    width: 60%;
+    background-color: aquamarine;
+}
+
+.post img{
+    width: 100%;
+}
+
